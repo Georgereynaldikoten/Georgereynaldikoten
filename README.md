@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Georgereynaldikoten/Georgereynaldikoten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![George Reynaldi Koten image](profil.png)
+<h2> Hey There !  👋</h2>
+
+my Name is George Reynaldi Koten 
+
+I am a student 👨‍🎓 at a private university in Yogyakarta. I'm learning a programming language and making some projects from the language I've learned 
